@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //2 xiugai   密密麻麻
+        //2 xiugai   密密麻麻  多大
 
     }
 }
